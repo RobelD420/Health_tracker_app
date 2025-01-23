@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59006632724",
+    "project_id": "vitality-c2802",
+    "storage_bucket": "vitality-c2802.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59006632724:android:a3cf0eda612bceadf4f801",
+        "android_client_info": {
+          "package_name": "com.example.vitality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA901enFxn1wwMk4K7eRD6yDbe7_ypB_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
